@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/raghavjha73/test">
-    <img src="images/logo.png" alt="Logo" width="150" height="150">
+    <img src="images/logo.png" alt="Logo" width="400" height="400">
   </a>
 </div>
 
